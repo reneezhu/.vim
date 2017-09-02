@@ -3,6 +3,9 @@ colo molokai
 syntax on
 filetype plugin indent on
 
+" Set ctrlp path "
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+
 set tabstop=2
 set softtabstop=2
 set shiftwidth=2
